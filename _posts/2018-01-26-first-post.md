@@ -9,7 +9,7 @@ I live in Incheon, Korea.
 I'm 25 years old and i'm majoring in mechatronics
 
 I like to challenge for the new 
-to be continue..
+to be continued..
 
 
 
