@@ -18,9 +18,9 @@ minimal_mistakes_skin    : "aqua" #"dark" , "dirt", "neon", "mint", "plum", "sun
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Site Title"
+title                    : "MY LIFE"
 title_separator          : "-"
-subtitle                 : "LIFE IS SO COOL"
+subtitle                 : "NEW JOB NEW CAR NEW HOUSE"
 name                     : "Yu Jae Cheol"
 description              : "An amazing website."
 url                      : "https://yjc4720.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
